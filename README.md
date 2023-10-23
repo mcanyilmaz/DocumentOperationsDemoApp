@@ -54,6 +54,7 @@ Postman API Çağırımı Örnek Request Response Pair;
 
 
 
+
 {
 	"info": {
 		"_postman_id": "bcfde7a9-676b-4a21-8e48-0e3a8b1ec9c9",
@@ -191,3 +192,4 @@ Postman API Çağırımı Örnek Request Response Pair;
 		}
 	]
 }
+
